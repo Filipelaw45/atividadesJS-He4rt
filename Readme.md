@@ -1,4 +1,4 @@
-Atividades de fixação de conteudo da Javascript4Noobs criado por He4rt Developers
+Atividades para fixação de conteúdo da Javascript4Noobs criado por He4rt Developers!
 
 ATIVIDADES DE LÓGICA DE PROGRAMAÇÃO COM JAVASCRIPT
 
